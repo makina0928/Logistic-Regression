@@ -1,4 +1,4 @@
-## CREATE A VERTUAL ENVIRONMENT
+## CREATE A VIRTUAL ENVIRONMENT
 ```bash 
 !pip install uv
 uv init project_name
