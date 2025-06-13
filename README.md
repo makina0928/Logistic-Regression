@@ -18,9 +18,9 @@ marimo edit main.py
 ## GITHUB REPOSITORY
 ```bash
 git init
-git add .
-git commit -m "Initial commit"
-git remote add origin repository_url
+git add README.md
+git commit -m "commit message"
 git branch -M main
+git remote add origin https:<//github.com/username/repository_name.git>
 git push -u origin main
 ```
